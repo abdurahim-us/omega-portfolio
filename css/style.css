@@ -293,7 +293,6 @@ body {
 
 .bootstrap-item {
 	width: 311px;
-	height: 84px;
 }
 
 .bootstrap-item-img {
@@ -314,7 +313,7 @@ body {
 }
 
 .bootstrap-hr {
-	margin-top: 180px;
+	margin-top: 60px;
 	border: 1px solid #EAE9F2;
 }
 
